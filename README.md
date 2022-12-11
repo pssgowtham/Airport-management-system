@@ -1,4 +1,4 @@
-# Airport Management Application by Team Project Data Structures Deadheads
+# Airport Management System Using ReactJS, CSS, MYSQL and AWS
 
 Implementing an end2end Airport Management system that can be configured for a given airport (Web interface or Mobile app interface with supporting Backend APIs), that integrates Airline Flight Schedules, Gate Assignments, Baggage Claim assignment for arriving flights.
 
